@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-venv-travel-planner-agent/
 
 # Distribution / packaging
 .Python
