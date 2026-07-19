@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+venv-travel-planner-agent/
+
 # Distribution / packaging
 .Python
 build/
@@ -150,7 +152,7 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv
+venv-travelplanneragent/
 env/
 venv/
 ENV/
